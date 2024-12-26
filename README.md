@@ -1,9 +1,9 @@
 - 👋 Hi, I’m kale Amani
-- 👀 I’m interested in discussing JAVACSRIPT, NodeJs, ReactJS, HTML and  CSS
-- 🌱 I’m currently learning Web Development 
+- 👀 I’m interested in discussing JAVACSRIPT, Python(Django), ReactJS, HTML and  CSS
+- 🌱 I’m currently diving deeper as long as i can with the Web Development 
 - 💞️ I’m looking to collaborate on similar projects with skillfull developers
-- 📫 How to reach me: kalecodes2@gmail.com
-- 😄 Pronouns: kale
+- 📫 How to reach me: kalecode2@gmail.com
+- 😄 Pronouns: kale / Karim
 - ⚡ Fun fact: cartoons, poetry, music, camping and internet research
 
 <!---
