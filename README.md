@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kale Amani.
-- 👀 I’m interested in discussing MERN technologies(MongoDB, ExpressJS, ReactJS & NodeJS).
+- 👀 I’m interested in discussing Coding.
 - 🌱 I’m currently developing mysself deeper as long as i can with the Web Development 
 - 💞️ I’m looking to collaborate on similar projects with skillfull developers
 - 📫 How to reach me: kalecode2@gmail.com
